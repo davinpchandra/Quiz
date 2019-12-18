@@ -1,0 +1,11 @@
+|ID         |Name       |Position       |Salary     |
+|S0001      |Garry      |Staff          |    4500000|
+|S0002      |James      |Staff          |    5000000|
+|S0003      |Judith     |Manager        |   10700000|
+|S0004      |Yuli       |Officer        |    8500000|
+|S0005      |Kevin      |Staff          |    6000000|
+|S0006      |Ben        |Staff          |    5000000|
+|S0007      |Jason      |Manager        |   10500000|
+|S0008      |Stephen    |Officer        |    8500000|
+|S0009      |Adam       |Staff          |    4000000|
+|S0010      |Brian      |Staff          |    5000000|
